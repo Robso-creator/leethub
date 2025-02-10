@@ -2,6 +2,9 @@ class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         saw_dict_t = {}
         saw_dict_s = {}
+        
+        if len(s) != len(t):
+            return False
 
         for wrd_s in s:
             if wrd_s not in saw_dict_s:
