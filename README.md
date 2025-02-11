@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Robso-creator/leethub/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Robso-creator/leethub/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Robso-creator/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Robso-creator/leethub/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Robso-creator/leethub/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Robso-creator/leethub/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Robso-creator/leethub/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/Robso-creator/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Robso-creator/leethub/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
@@ -28,4 +30,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Robso-creator/leethub/tree/master/0217-contains-duplicate) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Robso-creator/leethub/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
